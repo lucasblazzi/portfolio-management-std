@@ -1,1 +1,1 @@
-# portfolio-management-std
+# Portfolio Management Study
